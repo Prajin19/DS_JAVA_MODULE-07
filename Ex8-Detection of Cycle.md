@@ -11,7 +11,7 @@ If there is no cycle, the program should return null without modifying the linke
 5. If traversal reaches null without repeats, return false and print the result.
 
 ## Program:
-```
+```JAVA
 /*
 program that detects a cycle in a linked list and returns the node where the cycle begins.
 If there is no cycle, the program should return null without modifying the linked list.
